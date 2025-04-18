@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2bd13fd4-be3d-4d9f-92f2-54c29f9a6dee)# EXNO:4-DS
+# EXNO:4-DS
        Name:A.Ranen Joseph Solomon
        Register Number: 212224040269
 # AIM:
